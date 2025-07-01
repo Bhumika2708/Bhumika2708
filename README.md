@@ -6,13 +6,6 @@
   building cute, pixel-level projects 🎮
 </p>
 
----
-
-### 💾 tech  
-java • react • js • mysql • tailwind
-
----
-
 
 ### 📊  
 <p align="center">
