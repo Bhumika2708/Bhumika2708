@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hello ✨</h1>
 
-<p>Building things.
+<p align="center">Building things.
 Refining them.
 </p>
 
